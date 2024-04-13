@@ -12,7 +12,7 @@ Packages Required
  - requests
  - tornado 
 
-#Inside Fyers Api you will get all the necessary features
+## Inside Fyers Api you will get all the necessary features
 - Call
 - Put
 - Fetch Stock
